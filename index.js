@@ -17,7 +17,7 @@ function decrement(n) {
   return n-=1
 }
 function makeInt(n,radix) {
-  return parseInt(n,raadix)
+  return parseInt(n,radix)
 }
 function preserveDecimal(n) {
   return parseFloat(n)
